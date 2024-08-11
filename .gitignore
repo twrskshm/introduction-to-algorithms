@@ -1,0 +1,11 @@
+# Directory that stores project-specific settings, metadata, and configuration files.
+.idea/
+# Output directory that stores compiled Java classes and resources.
+out/
+# IntelliJ Module File that stores module-specific configuration, including paths, dependencies, and settings for a
+# specific module within the project.
+introduction-to-algorithms.iml
+
+# Numbers files that track the progress of tasks.
+done.numbers
+todo.numbers
